@@ -559,7 +559,7 @@
 * [Ascent](https://play.google.com/store/apps/details?id=com.ascent) - App Blocker
 * [ScreenZen](https://play.google.com/store/apps/details?id=com.screenzen) - Website / App Blocker
 * [Folksable](https://folksable.com/) - Habit Tracker
-* [unhabits](https://github.com/iSoron/uhabits) - Habit Tracker
+* [uhabits](https://github.com/iSoron/uhabits) - Habit Tracker
 * [HabitBuilder](https://github.com/ofalvai/HabitBuilder) - Habit Tracker
 * [⁠Not Boring Habits](https://apps.apple.com/app/id1593891243) - Habit Tracker
 * [MoreDays](https://gitlab.com/wuapps/moredays) - Habit Tracker
